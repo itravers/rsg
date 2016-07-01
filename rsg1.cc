@@ -39,22 +39,6 @@ static void readGrammar(ifstream& infile, map<string, Definition>& grammar)
   }
 }
 
-void printSentence(map<string, Definition> &grammar, string key)
-{
-  Definition start = grammar[key];
-  Production prod = start.getRandomProduction();
-  Production::iterator begin = prod.begin();
-  Production::iterator end = prod.end();
-  while(begin != end) {
-    string str = *begin;
-    if (str.substr(0,1) != "<") // check for nonterminal
-      cout << str << " ";
-    else
-      printSentence(grammar,str); // recursive call to find terminal
-    begin++;
-  }
-}
-
 /**
  * Performs the rudimentary error checking needed to confirm that
  * the client provided a grammar file.  It then continues to
@@ -91,14 +75,5 @@ int main(int argc, char *argv[])
   cout << "The grammar file called \"" << argv[1] << "\" contains "
        << grammar.size() << " definitions." << endl;
   
-  // generate sentences
-  for (int i = 0; i < 3; i++) {
-    cout << endl;
-    printSentence(grammar, "<start>");
-    cout << endl;
-  }
-
-  cout << endl;
-
   return 0;
 }
