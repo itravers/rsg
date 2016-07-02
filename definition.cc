@@ -48,6 +48,7 @@ Definition::Definition(ifstream& infile)
 const Production& Definition::getRandomProduction() const
 {
   static RandomGenerator random; 
+//  cout << "Possible expansions: "<< possibleExpansions.size() << endl;
   int randomIndex = random.getRandomInteger(0, possibleExpansions.size() - 1);
   return possibleExpansions[randomIndex];
 }

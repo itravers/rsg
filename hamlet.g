@@ -27,16 +27,1062 @@ p23 - the laws delay
 p24 - the insolence of office
 p25 - and the spurns that the patient merit
 p26 - of the unworthy takes.
+p27 - When he himself
+p28 - might his quietus make
+p29 - with a bare bodkin
 
+p30 - Who would fardels bare
+p31 - To grunt a sweat
+p32 - under a weary life.
+
+p33 - But that the dread of something after death
+p34 - The undiscovered country from whose borne no traveller returns
+p35 - puzzles the will
+p36 - And makes us rather bear those ills we have
+p37 - Than fly to others we know not of.
+
+p38 - Thus concience doth make cowards of us all
+p39 - and thus the native hue of resolution
+p40 - is sicklied o're with the pail cast of thought
+p41 - and enterprises with great pith and moment
+p42 - with this reguard their currents turn awry
+p43 - and lose the name of action.
 
 {
 <start> 
-<p1> ? <p2> ! <p3> <p4> <p4a> , <p5> <p6> ? <to-die> , to <sleep> , <no-more> - <p7> ! <p8> , <to-die> , to <sleep> - <p9> . <p10> ... <p11> <p12> <p13> , <p14> . 
-<p15> <p16> <p17> . - <p18> <p19> , <p20> , <p21> . <p22> , <p23> .
-<p24> , <p25> <p26> . ;
+<p1> ? <p2> ! | 
+<p3> <p4> <p4a> , |
+<p5> <p6> ? |
+<to-die> , to <sleep> , <no-more> | 
+<p7> ! |
+<p8> , <to-die> , to <sleep> | | 
+<p9> . <p10> ... | 
+<p11> <p12> |
+<p13> , <p14> . | 
+<p15> <p16> <p17> . | | 
+<p18> <p19> , |
+<p20> , <p21> . |
+<p22> , |
+<p23> . |
+<p24> , |
+<p25> <p26> . |
+<p27> <p28> <p29> . | |
+<p30> <p31> <p32> . |
+<p33> , |
+<p34> <p35> |
+<p36> |
+<p37> . ;
+}
+
+{
+<p37>
+than <fly> to others we <know-not-of> ;
+than <risk> going to those we <know-not-of> ;
+}
+
+{
+<risk>
+risk ;
+imperil ourselves ;
+jeopardize ;
+brave ;
+chance ;
+confront ;
+dare ;
+face ;
+gamble ;
+hazard ;
+venture ;
+wager ;
+}
+
+{
+<know-not-of>
+know not of ;
+don't understand ;
+don't comprehend ;
+cannot fathom ;
+don't grasp ;
+don't get ;
+don't know ;
+do not understand ;
+}
+
+{
+<fly>
+fly ;
+hurry ;
+careen ;
+rush ;
+haste ;
+bustle ;
+dash ;
+scurry ;
+run ;
+}
+
+{
+<p36>
+and <makes> us <rather> <2bare> those <ills> we <have> ;
+to the <circumstances> where we would <rather> <stick-with> the <ills> we are already <accustomed-to> ;
+}
+
+{
+<accustomed-to>
+accustomed to ;
+used to ;
+acquainted with ;
+adaped to ;
+acclimatized to ;
+familiarized with ;
+habituated to ;
+}
+
+{
+<stick-with>
+stick with ;
+keep ;
+hold on to ;
+carry ;
+maintain ;
+control ;
+enjoy ;
+manage ;
+store ;
+}
+
+{
+<have>
+have ;
+own ;
+contain ;
+bear ;
+possess ;
+retain ;
+}
+
+{
+<ills>
+ills ;
+evils ;
+sicknesses ;
+<horrible> <circumstances> ;
+abuses ;
+ailments ;
+diseases ;
+problems ;
+conditions ;
+maladies ;
+miseries ;
+pains ;
+sufferings ;
+troubles ;
+woes ;
+}
+
+{
+<circumstances>
+circumstances ;
+conditions ;
+situations ;
+footings ;
+whereabouts ;
+standing ;
+}
+
+{
+<horrible>
+horrible ;
+terrible ;
+ugly ;
+evil ;
+abhorrent ;
+abominable ;
+awful ;
+cruel ;
+dreadful ;
+ghastly ;
+grisly ;
+gruesome ;
+heinous ;
+}
+
+{
+<rather>
+to rather ;
+instead ;
+preferably ;
+sooner ;
+unwillingly ;
+alternately ;
+alternatively ;
+just as soon ;
+more willingly ;
+more readily ;
+much sooner ;
+}
+
+{
+<p35>
+<puzzles> <the> <will> ;
+}
+
+{
+<will>
+will ;
+will power ;
+initiative ;
+desires ;
+ambition ;
+moxie ;
+fortitude ;
+desire ;
+stamina ;
+spirit ;
+valor ;
 }
 
 
+{
+<the>
+the ;
+our ;
+my ;
+all ;
+}
+
+{
+<puzzles>
+puzzles ;
+confuses ;
+baffles ;
+befuddles ;
+confounds ;
+dazes ;
+disconcerts ;
+disorients ;
+distracts ;
+flusters ;
+frustrates ;
+muddles ;
+obscures ;
+}
+
+{
+<p34>
+the <undiscovered> <country> from <whose-borne> no <traveller> <returns> ;
+the <country> from which no one ever <returns> ;
+the <country> <after> our <ken> ;
+}
+
+{
+<ken>
+ken ;
+knowledge ;
+understading ;
+perview ;
+acumen ;
+apprehension ;
+awareness ;
+cognizance ;
+comprehension ;
+consciousness ;
+grasp ;
+mind ;
+recognition ;
+sense ;
+}
+
+{
+<returns>
+returns ;
+comes back ;
+reappears ;
+recovers ;
+triumphs ;
+}
+
+{
+<traveller>
+traveller ;
+adventurer ;
+observer ;
+tourist ;
+sightseer ;
+expedition ;
+excursion ;
+exploration ;
+outing ;
+patrol ;
+quest ;
+trek ;
+trekker ;
+questor ;
+hiker ;
+}
+
+{
+<whose-borne>
+whose borne ;
+where ;
+whose endured ;
+whose travelled ;
+whose <adventured> ;
+}
+
+{
+<adventured>
+adventured ;
+attempted ;
+chanced ;
+dared ;
+ventured ;
+gambled ;
+hazarded ;
+}
+
+{
+<country>
+country ;
+land ;
+nation ;
+place ;
+community ;
+region ;
+state ;
+commonwealth ;
+homeland ;
+kingdom ;
+realm ;
+}
+
+{
+<undiscovered>
+undiscovered ;
+virgin ;
+little-known ;
+obscure ;
+uncharted ;
+unexplored ;
+unfamiliar ;
+untravelled ;
+alien ;
+remote ;
+faraway ;
+distant ;
+exotic ;
+foriegn ;
+unmapped ;
+unnamed ;
+}
+
+{
+<p33>
+<But> that the <dread> of <something> <after> <death> ;
+We would not do so if we were not <afraid> of what <comes> <after> <death> ;
+}
+
+{
+<comes>
+comes ;
+happens ;
+occurs ;
+approaches ;
+crops up ;
+results ;
+ensues ;
+exists ;
+follows ;
+takes place ;
+transpires ;
+}
+
+{
+<afraid>
+afraid ;
+scared  ;
+apprehensive ;
+frightened ;
+scared ;
+shocked ;
+daunted ;
+distressed ;
+disturbed ;
+intimidated ;
+scared to <death> ;
+}
+
+{
+<after>
+after ;
+beyond ;
+at a later time than ;
+later than ;
+subsequent to ;
+post hoc to ;
+thereafter ;
+at the heels of ;
+at the rear of ;
+on the far side of ;
+on the other side of ;
+farther than ;
+ensuing ;
+succedent to ;
+succeeding ;
+successional to ;
+successive to  ;
+}
+
+{
+<something>
+something ;
+what comes ;
+that which exists ;
+that thing ;
+perseverance ;
+}
+
+{
+<dread>
+dread ;
+fear ;
+fright ;
+apprehension ;
+awe ;
+consternation ;
+dismay ;
+horror ;
+panic ;
+phobia ;
+terror ;
+trepidation ;
+worriment ;
+}
+
+{
+<But>
+But ;
+Although ;
+Nevertheless ;
+On the other hand ;
+Though ;
+Still ;
+Yet ;
+However ;
+}
+
+{
+<p32>
+<under> a <weary> <life> ;
+}
+
+{
+<weary>
+weary ;
+tired ;
+bored ;
+exhasted ;
+fatigued ;
+overworked ;
+sleepy ;
+beat ;
+bushed ;
+discontented ;
+drained ;
+flagging ;
+spent ;
+sick ;
+wearied ;
+wearing ;
+}
+
+{
+<under>
+under ;
+beneath ;
+below ;
+underneath ;
+down from ;
+}
+
+{
+<p31>
+to <grunt> a <sweat> ;
+to <work> <very> <hard> ;
+to <2bare> <terrible> <torment> ;
+}
+
+{
+<torment>
+torment ;
+affliction ;
+pain ;
+agony ;
+anguish ;
+misery ;
+persecution ;
+suffering ;
+torture ;
+harassment ;
+irritation ;
+nuisance ;
+provocation ;
+}
+
+{
+<terrible>
+terrible ;
+horrible ;
+abhorrent ;
+appalling ;
+atrocious ;
+awful ;
+awesome ;
+dire ;
+disastrous ;
+disturbing ;
+dreadful 
+extreme ;
+frightful ;
+ghastly ;
+gruesome ;
+harrowing ;
+hideous ;
+horrendous ;
+horrid ;
+horrifying ;
+serious ;
+shocking ;
+unfortunate ;
+unpleasant ;
+beastly ;
+}
+
+{
+<hard>
+hard ;
+difficult ;
+arduous ;
+burdensome ;
+challenging ;
+demanding ;
+laborious ;
+onerous ;
+painful ;
+problematic ;
+severe ;
+strenuous ;
+tough ;
+troublesome ;
+bothersome ;
+<easier> <said> than <done> ;
+formidable ;
+galling ;
+}
+
+{
+<done>
+done ;
+accomplished ;
+completed ;
+concluded ;
+finished ;
+}
+
+[
+<said>
+said ;
+spoken ;
+announced ;
+articulated ;
+communicated ;
+expressed ;
+mentioned ;
+told ;
+uttered ;
+voiced ;
+}
+
+{
+<easier>
+easier ;
+simpler ;
+more effortless ;
+more painless ;
+more uncomplicated ;
+plainer ;
+}
+
+
+{
+<very>
+very ;
+absolutely ;
+awfully ;
+certainly ;
+decidedly ;
+deeply ;
+eminently ;
+excessively ;
+extraordinarily ;
+extreamly ;
+incredibly ;
+noticably ;
+particularly ;
+pretty ;
+profoundly ;
+remarkably ;
+surprisingly ;
+terribly ;
+truly ;
+uncommonly ;
+unusually ;
+wonderfully ;
+acutely ;
+amply ;
+astonishingly ;
+emphatically ;
+}
+
+{
+<work>
+work ;
+endeavor ;
+struggle ;
+drudge ;
+toil ;
+slog ;
+travail ;
+strive ;
+}
+
+{
+<sweat>
+sweat ;
+perspiration ;
+erection ;
+<care> ;
+<worry> ;
+}
+
+{
+<care>
+care ;
+concern ;
+devtion ;
+endearment ;
+good will ;
+}
+
+{
+<worry>
+worry ;
+care ; 
+concern ;
+fear ;
+headache ;
+misery ;
+misgiving ;
+problem ;
+woe ;
+uneasiness ;
+}
+
+
+{
+<grunt>
+grunt ;
+groan ;
+squawk ;
+squeak ;
+snort ;
+grumble ;
+<utter> a <deep> and <guttural> <sound> ;
+}
+
+{
+<sound>
+sound ;
+groan ;
+grunt ;
+noise ;
+vibration ;
+voice ;
+modulation ;
+intonation ;
+racket ;
+cacophony ;
+}
+
+{
+<guttural>
+guttural ;
+grating ;
+growling ;
+husky ;
+low ;
+rasping ;
+rough ;
+thick ;
+glottal ;
+gravelly ;
+gruff ;
+harsh ;
+hoarse ;
+inarticulate ;
+sepulchral ;
+throaty ;
+}
+
+{
+<deep>
+deep ;
+broad ;
+buried ;
+deep-seated ;
+profound ;
+wide ;
+low ;
+underground ;
+yawning ;
+bottomless ;
+fathomless ;
+}
+
+{
+<utter>
+utter ;
+give forth ;
+articulate ;
+assert ;
+blurt ;
+deliver ;
+express ;
+mutter ;
+proclaim ;
+pronounce ;
+recite ;
+shout ;
+speak ;
+whisper ;
+divulge ;
+ejaculate ;
+exclaim ;
+mouth ;
+promulgate ;
+}
+
+
+
+{
+<p30>
+<who> would fardels bare ;
+<who> would <fardels> <2bare> ;
+<who> would <2bare> a <fardels> ;
+}
+
+{
+<2bare>
+bare ;
+to haul ;
+carry ;
+hold ;
+lug ;
+hoist ;
+take ;
+cart ;
+heft ;
+sustain ;
+sholder ;
+}
+
+{
+<fardels>
+fardels ;
+burdens ;
+worries ;
+stress ;
+troubles ;
+strain ;
+suffering ;
+struggling ;
+woe ;
+agitation ;
+discord ;
+disquiet ;
+}
+
+{
+<who>
+who ;
+what person ;
+who may I ask ;
+whom ;
+which of you ;
+}
+
+{
+<p29>
+with a <bare> <knife> ;
+with a <knife-adjective>  <knife> ;
+with a <adjective>  <weapon> ;
+}
+
+{
+<weapon>
+<gun> ;
+<knife> ;
+grenade ;
+grenade launcher ;
+missle ;
+rocket ;
+torpedo ;
+rock ;
+fork ;
+dinner knife ;
+}
+
+{
+<gun>
+gun ;
+pistol ;
+rifle ;
+assault rifle ;
+revolver ;
+carbine ;
+shotgun ;
+sniper rifle ;
+machine gun ;
+}
+
+
+{
+<adjective>
+<color> ;
+big ;
+little ;
+small ;
+large ;
+<knife-adjective> ;
+another ;
+new ;
+good ;
+old ;
+great ;
+American ;
+young ;
+long ;
+bad ;
+real ;
+hard ;
+whole ;
+military ;
+}
+
+{
+<knife>
+knife ;
+bodkin ;
+bayonet ;
+blade ;
+cutter ;
+dagger ;
+machete ;
+scalpel ;
+sickle ;
+skewer ;
+sword ;
+cutlass ;
+lance ;
+sabre ;
+scimitar ;
+scythe ;
+shank ;
+shiv ;
+stiletto ;
+switchblade ;
+}
+
+{
+<knife-adjective>
+metal ;
+sharp ;
+evil ;
+glancing ;
+gleaming ;
+valaryian steel ;
+scary ;
+murderous ;
+huge <color> ;
+}
+
+{
+<bare>
+bare ;
+naked ;
+exposed ;
+bald ;
+smooth ;
+uncovered ;
+stripped ;
+unclad ;
+undressed ;
+nude ;
+shorn ;
+unrobed ;
+}
+
+{
+<color>
+black ;
+blue ;
+green ;
+red ;
+orange ;
+purple ;
+yellow ;
+white ;
+silver ;
+gold ;
+neon ;
+pink ;
+sky blue ;
+}
+
+{
+<p28>
+<might> his <quietus> <make> ;
+<might> <end> his <life> ;
+<might> <2cause> himself to <die> ;
+}
+
+{
+<2cause>
+cause ;
+induce ;
+bring about ;
+motivate ;
+occasion ;
+get things rolling ;
+effect ;
+}
+
+{
+<life>
+life ;
+course ;
+season ;
+survival ;
+being ;
+days ;
+era ;
+epoch ;
+period ;
+}
+
+{
+<end>
+end ;
+break up ;
+cease ;
+close ;
+complete ;
+conclude ;
+culminate ;
+expire ;
+finish ;
+halt ;
+stop ;
+terminate ;
+abort ;
+accomplish ;
+consummate ;
+discontinue ;
+dissolve ;
+interrupt ;
+postpone ;
+relinquish ;
+}
+
+{
+<make>
+make ;
+cause ;
+form ;
+generate ;
+produce ;
+accomplish ;
+arrange ;
+beget ;
+construct ;
+effect ;
+fabricate ;
+fashion ;
+invent ;
+mold ;
+occasion ;
+originate ;
+procreate ;
+secure ;
+synthesize ;
+bring about ;
+lead to ;
+whip out ;
+}
+
+{
+<quietus>
+quietus ;
+final blow ;
+death ;
+death blow ;
+mortal blow ;
+mercy stroke ;
+cessation ;
+annihilation ;
+demise ;
+extinction ;
+fatality ;
+ruination ;
+termination ;
+departure ;
+}
+
+{
+<might>
+might ;
+may ;
+could ;
+can ;
+}
+
+{
+<p27>
+when <he> himself ;
+}
+
+
+{
+<he>
+he ;
+the <depressed> man ;
+the guy ;
+the fellow ;
+the protagonist ;
+}
+
+{
+<depressed>
+despondent ;
+morose ;
+suicidal ;
+pessimistic ;
+sad ;
+unhappy ;
+glum ;
+moody ;
+disconsolate ;
+}
 
 {
 <p26>
@@ -1463,17 +2509,15 @@ trailed ;
 {
 <death>
 death ;
-afterlife ;
+the afterlife ;
 annihilation ;
-casualty ;
 cessation ;
 mortality ;
 quietus ;
 demise ;
-end of life ;
+the end of life ;
 dissolution ;
-amort ;
-bitter end ;
+the bitter end ;
 doom ;
 }
 
@@ -1545,7 +2589,6 @@ nightmare ;
 day dream ;
 hallucination ;
 impression in the head ;
-head trip ;
 mental picture ;
 pipe dream ;
 nightmare worse than death ;

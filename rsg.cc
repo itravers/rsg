@@ -48,7 +48,10 @@ void printSentence(map<string, Definition> &grammar, string key)
   while(begin != end) {
     string str = *begin;
     if (str.substr(0,1) != "<") // check for nonterminal
-      cout << str << " ";
+     	if(str.substr(0,1) == "|")
+		cout << endl;
+	else
+	 	cout << str << " ";
     else
       printSentence(grammar,str); // recursive call to find terminal
     begin++;
@@ -92,7 +95,7 @@ int main(int argc, char *argv[])
        << grammar.size() << " definitions." << endl;
   
   // generate sentences
-  for (int i = 0; i < 3; i++) {
+  for (int i = 0; i < 1; i++) {
     cout << endl;
     printSentence(grammar, "<start>");
     cout << endl;
