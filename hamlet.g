@@ -71,7 +71,474 @@ p43 - and lose the name of action.
 <p33> , |
 <p34> <p35> |
 <p36> |
-<p37> . ;
+<p37> . | | 
+<p38> |
+<p39> <p40> |
+<p41> <p42> | 
+<p43> . | | ;
+}
+
+{
+<p43>
+and <lose> the <name> of <action> ;
+and <they> <completely> <wimp-out> ;
+}
+
+{
+<wimp-out>
+wimp out ;
+back down ;
+chicken out ;
+balk ;
+retreat ;
+surrender ;
+reneges ;
+back pedals ;
+blow it off ;
+bow out ;
+cop out ;
+give up ;
+get cold feet ;
+recant ;
+resign ;
+throw in the towel ;
+weasel out ;
+welsh ;
+}
+
+{
+<completely>
+completely ;
+totally ;
+absolutely ;
+comprehensively ;
+effectively ;
+fully ;
+quite ;
+throughly ;
+ultimately ;
+utterly ;
+wholly ;
+conclusively ;
+exhaustively ;
+unanimously ;
+}
+
+{
+<they>
+they ;
+the <subject> of our <poem> ;
+those we are <speaking> about ;
+}
+
+{
+<speaking>
+speaking ;
+talking ;
+discussing ;
+conferring ;
+deliberating ;
+}
+
+{
+<poem>
+poem ;
+deliberation ;
+ballad ;
+composition ;
+rhyme ;
+sonnet ;
+verse ;
+writing ;
+lines ;
+quatrain ;
+words ;
+}
+
+{
+<subject>
+subjects ;
+clients ;
+vassals ;
+serfs ;
+}
+
+{
+<action>
+action ;
+performance ;
+execution ;
+suicide ;
+the undertaking ;
+}
+
+{
+<name>
+name ;
+flag ;
+label ;
+meaning ;
+style ;
+moniker ;
+surname ;
+sobriquet ;
+alias ;
+handle ;
+nom de plume ;
+}
+
+{
+<lose>
+lose ;
+drop ;
+forget ;
+give up ;
+squander ;
+surrender ;
+waste ;
+disinherit ;
+forfeit ;
+misplace ;
+oust ;
+relinquish ;
+yield ;
+}
+
+{
+<p42>
+with this <respect> their <currents> <turn-awry> ;
+<wondering> this they <change> their <plans> ;
+}
+
+{
+<plans>
+plans ;
+arrangement ;
+scheme ;
+intention ;
+strategy ;
+aim ;
+intent ;
+purpose ;
+tactics ;
+}
+
+{
+<change>
+change ;
+adjust ;
+revise ;
+shift ;
+variate ;
+switch ;
+flip-flop ;
+swap ;
+}
+
+{
+<turn-awry>
+turn awry ;
+changes course ;
+divert ;
+shift ;
+veer off ;
+deviate ;
+get side-tracked ;
+turn aside ;
+turn away ;
+}
+
+{
+<currents>
+currents ;
+floods ;
+rivers ;
+streams ;
+flows ;
+tides ;
+course ;
+motions ;
+}
+
+
+{
+<p41>
+and <enterprises> with <great> <pith> and <moment> ;
+and the <things> we <do> in the <heat> of the <occasion> ;
+}
+
+{
+<occasion>
+occasion ;
+date ;
+juncture ;
+time ;
+moment ;
+incident ;
+occurance ;
+}
+
+{
+<heat>
+heat ;
+fever ;
+warmth ;
+fieriness ;
+hotness ;
+sultriness ;
+swelter ;
+}
+
+{
+<do>
+do ;
+accomplish ;
+carry out ;
+achieve ;
+complete ;
+conclude ;
+execute ;
+finish ;
+undertake ;
+}
+
+{
+<moment>
+moment ;
+more importance ;
+concern ;
+consequence ;
+momentousness ;
+seriousness ;
+significance ;
+substance ;
+value ;
+weight ;
+}
+
+{
+<pith>
+pith ;
+importance ;
+pitch ;
+significance ;
+essence ;
+soul ;
+strength ;
+substance ;
+vigor ;
+}
+
+{
+<great>
+great ;
+a lot of ;
+a large amount of ;
+considerable ;
+enormous ;
+extreme ;
+huge ;
+immense ;
+tremendous ;
+vast ;
+abundant ;
+excessive ;
+}
+
+{
+<enterprises>
+enterprises ;
+activities ;
+business ;
+undertakings ;
+accomplishments ;
+deeds ;
+ventures ;
+tasks ;
+}
+
+{
+<p40>
+is <sicklied> <ore> with the <pale> cast of <thought> ;
+is <lost> because we <think> about it <too-much> ;
+}
+
+{
+<too-much>
+too much ;
+too often ;
+too regularly ;
+too repeatedly ;
+ofttimes ;
+many a time ;
+time and again ;
+}
+
+{
+<lost>
+lost ;
+wasted ;
+abolished ;
+annihilated ;
+consumed ;
+demolished ;
+destroyed ;
+eradicated ;
+exterminated ;
+forfeit ;
+obscured ;
+}
+
+{
+<thought>
+thought ;
+reflection ;
+speculation ;
+understanding ;
+anticipation ;
+cognition ;
+}
+
+{
+<pale>
+pale ;
+blanched ;
+bleached ;
+dim ;
+dull ;
+faded ;
+faint ;
+dangerous ;
+haggard ;
+sallow ;
+anemic ;
+cadaverous ;
+ghastly ;
+gray ;
+}
+
+{
+<ore>
+or'e ;
+over ;
+throughout ;
+}
+
+{
+<sicklied>
+sicklied ;
+made sick ;
+made ill ;
+nauseated ;
+}
+
+{
+<p39>
+and thus the <native> <hue> of <resolution> ;
+}
+
+{
+<resolution>
+resolution ;
+courage ;
+one's own will ;
+determination ;
+one's volition ;
+}
+
+{
+<hue>
+hue ;
+color ;
+tint ;
+complexion ;
+tinge ;
+tone ;
+aspect ;
+shade ;
+}
+
+{
+<native>
+native ;
+natural ;
+innate ;
+characteristic ;
+accustomed ;
+habitual ;
+inborn ;
+indigenous ;
+ingenerate ;
+}
+
+{
+<p38>
+Thus <conscience> <doth> make <cowards> of us all, ;
+<the> <knowledge> <makes> us to <rethink> <the> <actions> , ;
+}
+
+{
+<actions>
+actions ;
+behaviour ;
+conduct ;
+goings on ;
+procedures ;
+operation ;
+}
+
+{
+<rethink>
+rethink ;
+reevaluate ;
+reasses ;
+reexamine ;
+revise ;
+rework ;
+emend ;
+correct ;
+rehash ;
+review ;
+}
+
+{
+<knowledge>
+knowledge ;
+information ;
+info ;
+}
+
+{
+<cowards>
+cowards ;
+wimps ;
+babies ;
+chickens ;
+cravens ;
+deserters ;
+malingerers ;
+quitters ;
+skulkers ;
+weaklings ;
+}
+
+{
+<conscience>
+conscience ;
+shame ;
+moral sense ;
+principles ;
+qualms ;
+scruples ;
+}
+
+{
+<doth>
+doth ;
+will ;
+can ;
+could ;
+does ;
 }
 
 {
@@ -2588,11 +3055,8 @@ delusion ;
 nightmare ;
 day dream ;
 hallucination ;
-impression in the head ;
 mental picture ;
-pipe dream ;
 nightmare worse than death ;
-out of body experience ;
 }
 
 {
