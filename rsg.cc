@@ -11,6 +11,7 @@
 #include <fstream>
 #include "definition.h"
 #include "production.h"
+#include <cstdlib>
 using namespace std;
 
 /**
@@ -76,6 +77,8 @@ void printSentence(map<string, Definition> &grammar, string key)
 
 int main(int argc, char *argv[])
 {
+  int numPrints = 1;
+  int numTracker = 0;
   if (argc == 1) {
     cerr << "You need to specify the name of a grammar file." << endl;
     cerr << "Usage: rsg <path to grammar text file>" << endl;
@@ -87,6 +90,12 @@ int main(int argc, char *argv[])
     cerr << "Failed to open the file named \"" << argv[1] << "\".  Check to ensure the file exists. " << endl;
     return 2; // each bad thing has its own bad return value
   }
+
+	if (argc == 3){
+		numPrints = atoi(argv[2]);
+		cout << "numprints: " << numPrints << endl;
+	//	cout << "argv[2]: " << atoi(argv[2]) << endl;
+	}
   
   // things are looking good...
   map<string, Definition> grammar;
@@ -95,7 +104,9 @@ int main(int argc, char *argv[])
        << grammar.size() << " definitions." << endl;
   
   // generate sentences
-  for (int i = 0; i < 1; i++) {
+  for (int i = 0; i < numPrints; i++) {
+    numTracker++;
+    cout << "# Hamlet Draft Num: " << numTracker << endl;
     cout << endl;
     printSentence(grammar, "<start>");
     cout << endl;
